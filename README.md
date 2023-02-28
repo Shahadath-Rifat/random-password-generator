@@ -4,7 +4,7 @@ In this tutorial, we will be creating a Random Password Generator using JavaScri
 
 ## Prerequisites
 
-Before we begin, you should have some basic knowledge of HTML, CSS, and JavaScript. You will also need a code editor(VS Code recommended) to write and Node js to test your code.
+Before we begin, you should have some basic knowledge of HTML, CSS, and JavaScript. You will also need a code editor(VS Code recommended) to write and Node js to test your code. We create a file named as index.js. Write ```'use strict';``` , JavaScript's strict mode is a way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of "sloppy mode".  
 
 ## Step 1: Defining the Functions
 
